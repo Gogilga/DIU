@@ -39,8 +39,6 @@ Los que hemos elegido son:
 Teniendo en cuenta estas características, hemos evaluado individualmente a cada uno de los 4 hostels y hemos llegado a la conclusión de que, aunque de forma muy ajustada, la mejor website y por tanto el mejor hostel es Hostel4u, debido a su sencillez, intuitiva website, localización en la ciudad, servicios que ofrece y asistencia eficaz al cliente. 
 
 
-
-
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
@@ -52,13 +50,10 @@ Para la segunda persona hemos decidido crear a Steven Williams, dado que nos par
 
 <img align="center" src="./img/StevenWilliams.jpg" alt="Imagen de Steven"/>
 
-El documento js con la información se puede encontrar [aquí](P1/data/Persona.js).
+El documento js con la información de las personas se puede encontrar [aquí](P1/data/Persona.js).
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
 
 Hemos escogido estas dos situaciones, debido a que no son situaciones de lo más comunes de los típicos turistas que quieren viajar. Sino que nuestros personajes tienen una finalidad subyacente.
 
@@ -70,7 +65,7 @@ En la segunda situación descrita encontramos al joven adolescente Steven Willia
 
 <img align="center" src="./img/JourneyMapSteven.jpg" alt="Imagen del journey map de Kumiko"/>
 
-El documento js con la información se puede encontrar [aquí](P1/data/Journey.js).
+El documento js con la información de los Journey Map se puede encontrar [aquí](P1/data/Journey.js).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -79,6 +74,9 @@ El documento js con la información se puede encontrar [aquí](P1/data/Journey.j
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+- Aquí se puede encontrar el [xlsx](P1/Usability-review-template.xlsx) y el [pdf](P1/Usability-review-template-2.pdf) de Usability Review
+- **Nota:** 91/100.
+- **Valoración:** 
 
 
 ## Paso 2. UX Design  
