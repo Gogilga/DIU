@@ -28,6 +28,12 @@ Miembros
 
 Hemos elegido 4 webs distintas de hostels en Granada, calificándolas sobre diversos aspectos como las actividades que puedan ofrecer dichos hostels a través de su website, los idiomas con los que se pueden dar a conocer, los servicios que ofrecen, la localización del hostel en la ciudad, las reseñas de otros clientes, y la calidad de la asistencia que ofrece el personal del hostel.
 
+Los que hemos elegido son: 
+- [Hostel4u](https://www.hostel4ugranada.com)
+- [Oasis](https://oasisgranada.com/)
+- [TOC](https://tochostels.com/destinations/granada/)
+- [ECO](http://www.ecohostel.es)
+
 <img align="center" src="./img/AnalisisCompetitivo.jpg" alt="Imagen del análisis competitivo"/>
 
 Teniendo en cuenta estas características, hemos evaluado individualmente a cada uno de los 4 hostels y hemos llegado a la conclusión de que, aunque de forma muy ajustada, la mejor website y por tanto el mejor hostel es Hostel4u, debido a su sencillez, intuitiva website, localización en la ciudad, servicios que ofrece y asistencia eficaz al cliente. 
@@ -46,13 +52,25 @@ Para la segunda persona hemos decidido crear a Steven Williams, dado que nos par
 
 <img align="center" src="./img/StevenWilliams.jpg" alt="Imagen de Steven"/>
 
+El documento js con la información se puede encontrar [aquí](P1/data/Persona.js).
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
 
+Hemos escogido estas dos situaciones, debido a que no son situaciones de lo más comunes de los típicos turistas que quieren viajar. Sino que nuestros personajes tienen una finalidad subyacente.
+
+La primera situación encontramos que Kumiko está en medio de un contrato con un artista muy famoso para escribir su próxima canción. Ella está pasando ahora mismo por un bloqueo en el que solo ha escrito la primera estrofa de la canción y necesita una fuente de inspiración de cualquier modo posible. Hace varios años viajó ya a Granada y le encantó la ciudad, por lo que decide volver a visitarla para poder inspirarse y conocer gente nueva que le de nuevas historias que poder contar.
+
 <img align="center" src="./img/JourneyMapKumiko.jpg" alt="Imagen del journey map de Kumiko"/>
+
+En la segunda situación descrita encontramos al joven adolescente Steven Williams, cuya finalidad subyacente sería reunir de nuevo a su familia en un encomiable viaje lleno de actividades por y para la familia y que sean del agrado de su miembros. Dónde Granada, reúne los requisitos para satisfacer las necesidades e inquietudes de la familia Williams.
+
+<img align="center" src="./img/JourneyMapSteven.jpg" alt="Imagen del journey map de Kumiko"/>
+
+El documento js con la información se puede encontrar [aquí](P1/data/Journey.js).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

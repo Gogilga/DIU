@@ -44,7 +44,7 @@ Para la segunda persona hemos decidido crear a Steven Williams, dado que nos par
 
 <img align="center" src="./img/JourneyMapKumiko.jpg" alt="Imagen del journey map de Kumiko"/>
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
