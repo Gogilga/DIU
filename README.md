@@ -34,7 +34,7 @@ Los que hemos elegido son:
 - [TOC](https://tochostels.com/destinations/granada/)
 - [ECO](http://www.ecohostel.es)
 
-<img align="center" src="./img/AnalisisCompetitivo.jpg" alt="Imagen del análisis competitivo"/>
+<img align="center" src="P1/img/AnalisisCompetitivo.jpg" alt="Imagen del análisis competitivo"/>
 
 Teniendo en cuenta estas características, hemos evaluado individualmente a cada uno de los 4 hostels y hemos llegado a la conclusión de que, aunque de forma muy ajustada, la mejor website y por tanto el mejor hostel es Hostel4u, debido a su sencillez, intuitiva website, localización en la ciudad, servicios que ofrece y asistencia eficaz al cliente. 
 
@@ -44,11 +44,11 @@ Teniendo en cuenta estas características, hemos evaluado individualmente a cada
 
 La primera persona que hemos elegido se llama Kumiko Tani y se trata de una chica Japonesa que vive en EEUU que se dedica a escribir canciones, por lo que tiene que viajar mucho y al ser tan joven es más probable que pueda elegir cualquier tipo de alojamiento.
 
-<img align="center" src="./img/KumikoTani.jpg" alt="Imagen de Kumiko"/>
+<img align="center" src="P1/img/KumikoTani.jpg" alt="Imagen de Kumiko"/>
 
 Para la segunda persona hemos decidido crear a Steven Williams, dado que nos parecía interesante crear una perspectiva no tan común como puede ser la de un adolescente Canadiense sin recursos monetarios propios que quiere darle una sorpresa a su familia y reunirlos de nuevo en este viaje tan ilusionante para él.
 
-<img align="center" src="./img/StevenWilliams.jpg" alt="Imagen de Steven"/>
+<img align="center" src="P1/img/StevenWilliams.jpg" alt="Imagen de Steven"/>
 
 El documento js con la información de las personas se puede encontrar [aquí](P1/data/Persona.js).
 
@@ -59,11 +59,11 @@ Hemos escogido estas dos situaciones, debido a que no son situaciones de lo más
 
 La primera situación encontramos que Kumiko está en medio de un contrato con un artista muy famoso para escribir su próxima canción. Ella está pasando ahora mismo por un bloqueo en el que solo ha escrito la primera estrofa de la canción y necesita una fuente de inspiración de cualquier modo posible. Hace varios años viajó ya a Granada y le encantó la ciudad, por lo que decide volver a visitarla para poder inspirarse y conocer gente nueva que le de nuevas historias que poder contar.
 
-<img align="center" src="./img/JourneyMapKumiko.jpg" alt="Imagen del journey map de Kumiko"/>
+<img align="center" src="P1/img/JourneyMapKumiko.jpg" alt="Imagen del journey map de Kumiko"/>
 
 En la segunda situación descrita encontramos al joven adolescente Steven Williams, cuya finalidad subyacente sería reunir de nuevo a su familia en un encomiable viaje lleno de actividades por y para la familia y que sean del agrado de su miembros. Dónde Granada, reúne los requisitos para satisfacer las necesidades e inquietudes de la familia Williams.
 
-<img align="center" src="./img/JourneyMapSteven.jpg" alt="Imagen del journey map de Kumiko"/>
+<img align="center" src="P1/img/JourneyMapSteven.jpg" alt="Imagen del journey map de Kumiko"/>
 
 El documento js con la información de los Journey Map se puede encontrar [aquí](P1/data/Journey.js).
 
