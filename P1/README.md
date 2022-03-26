@@ -59,6 +59,6 @@ El documento js con la información de los Journey Map se puede encontrar [aquí
 1.d Usability Review
 ----
 
-- Aquí se puede encontrar el [xlsx](P1/Usability-review-template.xlsx) y el [pdf](P1/Usability-review-template-2.pdf) de Usability Review
+- Aquí se puede encontrar el [xlsx](Usability-review-template.xlsx) y el [pdf](Usability-review-template-2.pdf) de Usability Review
 - **Nota:** 91/100.
 - **Valoración:** Se ha obtenido una valoración excelente (91 sobre 100). Pensamos que la website ofrecida por el hostel “Hostel4u” es más que adecuada, por cierta salvedad de un problema de programación insignificante, pero que por otra parte ofrece al usuario una experiencia muy intuitiva y amigable desde el primer momento, con un contenido claro y conciso de todo lo que ofrece este hostel, y una buena fluidez en el mismo a la hora de navegar por la website, realizar reservas,y contactar con el personal del hostel entre otras cosas. De las pocas cosas que añadiríamos a la plataforma sería corregir ese problema simple de programación, tratar de añadir más actividades que ofrecer a sus huéspedes, añadir valoraciones de clientes que hayan pasado por el hostel e intentar expandir la forma de comunicarse con potenciales clientes a través de ampliar el número de idiomas en los que la website pueda mostrar su contenido.
