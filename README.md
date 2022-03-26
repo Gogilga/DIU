@@ -1,8 +1,8 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
-Updated: 11/2/2022
+Grupo: DIU3.SS-Team.  Curso: 2021/22 
+Updated: 26/3/2022
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,15 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * [Santiago Gil Legaza](https://github.com/Gogilga)
- * [Salvador Megías Andreu](https://github.com/salvadorJMA)
+ * :bust_in_silhouette:  **Santiago Gil Legaza**    :octocat: https://github.com/Gogilga
+ * :bust_in_silhouette:  **Salvador Megías Andreu**    :octocat: https://github.com/salvadorJMA
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -34,16 +29,28 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+La primera persona que hemos elegido se llama Kumiko Tani y se trata de una chica Japonesa que vive en EEUU que se dedica a escribir canciones, por lo que tiene que viajar mucho y al ser tan joven es más probable que pueda elegir cualquier tipo de alojamiento.
+
+<img align="center" src="./img/KumikoTani.jpg" alt="Imagen de Kumiko"/>
+
+Para la segunda persona hemos decidido crear a Steven Williams, dado que nos parecía interesante crear una perspectiva no tan común como puede ser la de un adolescente Canadiense sin recursos monetarios propios que quiere darle una sorpresa a su familia y reunirlos de nuevo en este viaje tan ilusionante para él.
+
+<img align="center" src="./img/StevenWilliams.jpg" alt="Imagen de Kumiko"/>
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+
+<img align="center" src="./img/JourneyMapKumiko.jpg" alt="Imagen de Kumiko"/>
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
