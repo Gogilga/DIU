@@ -26,6 +26,7 @@ Nuestros usuarios seran jóvenes, familias, grupos de amigos, parejas
 
     | User group | Jóvenes | Familias | Amigos | Parejas |
     | -- | -- | -- | -- | -- |
+    | Reservar una actividad | H | H | H | H |
 
 * User/Task flow
 
