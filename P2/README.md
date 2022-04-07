@@ -2,8 +2,8 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+
+![Malla receptora de información](img/MallaReceptoraDeInformacion.png)
 
 
 ### PROPUESTA DE VALOR
