@@ -9,6 +9,8 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+![Propuesta de valor](img/PropuestaDeValor.png)
+
 
 ### TASK ANALYSIS
 
@@ -20,7 +22,7 @@
 
 * Sitemap 
 
-![SiteMap](img/SiteMap2.png)
+![SiteMap](img/SiteMap.png)
 
 * Labelling 
 
