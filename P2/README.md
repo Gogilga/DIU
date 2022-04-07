@@ -37,6 +37,7 @@ A continuación podemos ver la User Task Matrix creada a partir de los usuarios 
 | Búsqueda de ofertas | H | L | H | M |
 | Contactar con la ayuda | M | H | L | M |
 | Consultar información adicional | M | H | M | H |
+| Conocer personas | H | L | H | L |
 
 
 Nivel de uso: H (alto), M (medio), L (bajo)
