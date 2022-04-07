@@ -15,6 +15,18 @@
 ### TASK ANALYSIS
 
 * User Task Matrix 
+Nuestros usuarios seran jóvenes, familias, grupos de amigos, parejas
+    - Jóvenes:
+
+    - Familias: 
+
+    - Grupos de amigos:
+
+    - Parejas:
+
+    | User group | Jóvenes | Familias | Amigos | Parejas |
+    | -- | -- | -- | -- | -- |
+
 * User/Task flow
 
 
