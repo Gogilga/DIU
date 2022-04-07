@@ -79,17 +79,12 @@ El documento js con la información de los Journey Map se puede encontrar [aquí
 * **Malla receptora de información:** A continuación se puede ver la malla receptora de información que hemos realizado en base a la experiencia que han tenido nuestros personajes (Kumiko y Steven).
 
 ![Malla receptora de información](P2/img/MallaReceptoraDeInformacion.png)
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
+
+En nuestra propuesta de valor presentamos una mejora a la página principal del Hostel añadiendo un microsite en el que aparezcan actividades a realizar. Desde este microsite se puede filtrar por distintos tipos de actividades seugún su categoría y además se pueden reservar las que son organizadas por el Hostel. También se da informa de las actividades ajenas al hostel con información de interés y con enlaces a las páginas oficiales para poder realizar sus reservas si los clientes lo estiman oportuno.
+
 * ScopeCanvas
 
 ![Propuesta de valor](P2/img/PropuestaDeValor.png)
