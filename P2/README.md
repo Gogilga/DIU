@@ -30,10 +30,14 @@ A continuación podemos ver la User Task Matrix creada a partir de los usuarios 
 | -- | -- | -- | -- | -- |
 | Reservar una actividad | H | H | H | H |
 | Buscar con filtro | M | H | L | M |
-| Hacer una valoración | M | H | M | M |
-| Reserva conjunta | M | H | L | M |
-| Compartir una actividad | H | L | H | M |
+| Hacer una valoración | L | H | M | H |
 | Consultar valoraciones | M | H | M | H |
+| Pago conjunto | M | H | L | H |
+| Compartir una actividad | H | L | H | L |
+| Búsqueda de ofertas | H | L | H | M |
+| Contactar con la ayuda | M | H | L | M |
+| Consultar información adicional | M | H | M | H |
+
 
 Nivel de uso: H (alto), M (medio), L (bajo)
 
@@ -44,6 +48,8 @@ Nivel de uso: H (alto), M (medio), L (bajo)
 ![SiteMap](img/SiteMap.png)
 
 * Labelling 
+
+![Labelling](img/Labelling.jpg)
 
 
 ### Prototipo Lo-FI Wireframe 
