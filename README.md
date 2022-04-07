@@ -3,12 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels)
 
 Grupo: DIU3.SS-Team.  Curso: 2021/22
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto:  Experience4u
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción: Se trata de un *minisite* orientado a poner de manifiesto las diferentes actividades que se presenta en el establecimiento de Hostel4u como en la ciudad de Granada en general. Las actividades pueden ser tanto culturales como gastronómicas o de ocio.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -34,7 +31,7 @@ Los que hemos elegido son:
 - [TOC](https://tochostels.com/destinations/granada/)
 - [ECO](http://www.ecohostel.es)
 
-<img align="center" src="P1/img/AnalisisCompetitivo.jpg" alt="Imagen del análisis competitivo"/>
+![Analisis competitivo](P1/img/AnalisisCompetitivo.jpg)
 
 Teniendo en cuenta estas características, hemos evaluado individualmente a cada uno de los 4 hostels y hemos llegado a la conclusión de que, aunque de forma muy ajustada, la mejor website y por tanto el mejor hostel es Hostel4u, debido a su sencillez, intuitiva website, localización en la ciudad, servicios que ofrece y asistencia eficaz al cliente. 
 
@@ -44,11 +41,11 @@ Teniendo en cuenta estas características, hemos evaluado individualmente a cada
 
 La primera persona que hemos elegido se llama Kumiko Tani y se trata de una chica Japonesa que vive en EEUU que se dedica a escribir canciones, por lo que tiene que viajar mucho y al ser tan joven es más probable que pueda elegir cualquier tipo de alojamiento.
 
-<img align="center" src="P1/img/KumikoTani.jpg" alt="Imagen de Kumiko"/>
+![Imagen de Kumiko](P1/img/KumikoTani.jpg)
 
 Para la segunda persona hemos decidido crear a Steven Williams, dado que nos parecía interesante crear una perspectiva no tan común como puede ser la de un adolescente Canadiense sin recursos monetarios propios que quiere darle una sorpresa a su familia y reunirlos de nuevo en este viaje tan ilusionante para él.
 
-<img align="center" src="P1/img/StevenWilliams.jpg" alt="Imagen de Steven"/>
+![Imagen de Steven](P1/img/StevenWilliams.jpg)
 
 El documento js con la información de las personas se puede encontrar [aquí](P1/data/Persona.js).
 
@@ -59,11 +56,11 @@ Hemos escogido estas dos situaciones, debido a que no son situaciones de lo más
 
 La primera situación encontramos que Kumiko está en medio de un contrato con un artista muy famoso para escribir su próxima canción. Ella está pasando ahora mismo por un bloqueo en el que solo ha escrito la primera estrofa de la canción y necesita una fuente de inspiración de cualquier modo posible. Hace varios años viajó ya a Granada y le encantó la ciudad, por lo que decide volver a visitarla para poder inspirarse y conocer gente nueva que le de nuevas historias que poder contar.
 
-<img align="center" src="P1/img/JourneyMapKumiko.jpg" alt="Imagen del journey map de Kumiko"/>
+![Journey map de Kumiko](P1/img/JourneyMapKumiko.jpg)
 
 En la segunda situación descrita encontramos al joven adolescente Steven Williams, cuya finalidad subyacente sería reunir de nuevo a su familia en un encomiable viaje lleno de actividades por y para la familia y que sean del agrado de su miembros. Dónde Granada, reúne los requisitos para satisfacer las necesidades e inquietudes de la familia Williams.
 
-<img align="center" src="P1/img/JourneyMapSteven.jpg" alt="Imagen del journey map de Kumiko"/>
+![Journey map de Steven](P1/img/JourneyMapSteven.jpg)
 
 El documento js con la información de los Journey Map se puede encontrar [aquí](P1/data/Journey.js).
 
@@ -79,14 +76,9 @@ El documento js con la información de los Journey Map se puede encontrar [aquí
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
+* **Malla receptora de información:** A continuación se puede ver la malla receptora de información que hemos realizado en base a la experiencia que han tenido nuestros personajes (Kumiko y Steven).
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Malla receptora de información](P2/img/MallaReceptoraDeInformacion.png)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -98,24 +90,65 @@ El documento js con la información de los Journey Map se puede encontrar [aquí
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+* ScopeCanvas
+
+![Propuesta de valor](P2/img/PropuestaDeValor.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+En nuestra web podemos encontrar usuarios de diversos perfiles, pero lo que creemos que pueden entrar a ver nuestra web pueden ser los sisguientes:
+    
+- **Jóvenes:** Son las personas más jóvenes. Pueden ser mayores de edad o todavía ser menores de edad.
+
+- **Familias:** Personas convivientes, que suele estar formada por unos padres y unos hijos.
+
+- **Amigos:** Grupo de conocidos que viajan juntos o que se encuentran en el destino para disfrutar de unos días en compañía.
+
+- **Parejas:** Personas jóvenes o adultas que tienen una relación sentimental.
+
+A continuación podemos ver la User Task Matrix creada a partir de los usuarios descritos anteriormente.
+
+| | Jóvenes | Familias | Amigos | Parejas |
+| -- | -- | -- | -- | -- |
+| Reservar una actividad | H | H | H | H |
+| Buscar con filtro | M | H | L | M |
+| Hacer una valoración | L | H | M | H |
+| Consultar valoraciones | M | H | M | H |
+| Pago conjunto | M | H | L | H |
+| Compartir una actividad | H | L | H | L |
+| Búsqueda de ofertas | H | L | H | M |
+| Contactar con la ayuda | M | H | L | M |
+| Consultar información adicional | M | H | M | H |
+| Conocer personas | H | L | H | L |
+
+
+Nivel de uso: H (alto), M (medio), L (bajo)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+* Sitemap 
 
->>> Identificar términos para diálogo con usuario  
+![SiteMap](P2/img/SiteMap.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+* Labelling 
 
+| Término | Significado |
+| -- | -- |
+| Home | Vuelta a la página principal del Hostel |
+| Agenda | Organización de las actividades con respecto a los días (método de búsqueda y organización) |
+| Actividades | Actividades organizadas por el Hostel o con facilidades ofrecidas por inferencia del hostel (ejemplo: descuento en una actividad gastronómica por acuerdo del hostel con el bar o restaurante) |
+| en Hostel | Actividades que se realizan en el propio hostel (pueden ser actividades gastronómicas o de ocio) |
+| en Ciudad | Actividades que se realizan en la ciudad de Granada (pueden ser actividades gastronómicas, de ocio, o tours por la ciudad) |
+| Gastronomía | Eventos de comida típica española y granadina y otro tipo de comida tanto en el hostel como fuera (ejemplos: ruta del vino, ruta de la cerveza, ruta de tapas, comidas internacionales en el hostel, bbq en el hostel.... ) |
+| Ocio | Actividades de Ocio para mejorar la experiencia del viaje (Ejemplos: evento de música electrónica en el hostel, concierto de flamenco concertado en las cuevas del Sacromonte...) |
+| Tours | Actividades culturales de interés de la ciudad (Ejemplos: tour por las zonas más turísticas de Granada, excursión a Sierra Nevada...) |
+| Opiniones y Valoraciones | Opiniones de clientes que han realizado alguna de las actividades ofreciendo sus experiencias y valoraciones al respecto. |
+| Reserva | Proceso de reservar una actividad dependiendo de la disponibilidad de la misma |
+| Otras Actividades | Actividades ajenas al hostel que se ponen en conocimiento de los clientes para un mayor conocimiento de las posibilidades de la ciudad |
+| Contacto | Opciones de contacto para informarse con mayor profundidad sobre las actividades o realizar posibles dudas al respecto |
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
