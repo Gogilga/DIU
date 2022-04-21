@@ -148,7 +148,29 @@ Nivel de uso: H (alto), M (medio), L (bajo)
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![1-Inicio](P2/img/1-Inicio.png)
+
+![2-Agenda](P2/img/2-Agenda.png)
+
+![3-Actividades-Hostel](P2/img/3-Actividades-Hostel.png)
+
+![4-Actividades-Ciudad](P2/img/4-Actividades-Ciudad.png)
+
+![5-Gastronomía-Ciudad](P2/img/5-Gastronomía-Ciudad.png)
+
+![6-Ocio-Ciudad](P2/img/6-Ocio-Ciudad.png)
+
+![7-Tours-Ciudad](P2/img/7-Tours-Ciudad.png)
+
+![8-Actividades-En-Hostel](P2/img/8-Actividades-En-Hostel.png)
+
+![9-Ocio-Hostel](P2/img/9-Ocio-Hostel.png)
+
+![10-Gastronomia-Hostel](P2/img/10-Gastronomia-Hostel.png)
+
+![11-Reserva-Concierto](P2/img/11-Reserva-Concierto.png)
+
+![12-Otras-Actividades](P2/img/12-Otras-Actividades.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)

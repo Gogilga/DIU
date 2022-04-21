@@ -55,6 +55,30 @@ Nivel de uso: H (alto), M (medio), L (bajo)
 
 ### Prototipo Lo-FI Wireframe 
 
+![1-Inicio](img/1-Inicio.png)
+
+![2-Agenda](img/2-Agenda.png)
+
+![3-Actividades-Hostel](img/3-Actividades-Hostel.png)
+
+![4-Actividades-Ciudad](img/4-Actividades-Ciudad.png)
+
+![5-Gastronomía-Ciudad](img/5-Gastronomía-Ciudad.png)
+
+![6-Ocio-Ciudad](img/6-Ocio-Ciudad.png)
+
+![7-Tours-Ciudad](img/7-Tours-Ciudad.png)
+
+![8-Actividades-En-Hostel](img/8-Actividades-En-Hostel.png)
+
+![9-Ocio-Hostel](img/9-Ocio-Hostel.png)
+
+![10-Gastronomia-Hostel](img/10-Gastronomia-Hostel.png)
+
+![11-Reserva-Concierto](img/11-Reserva-Concierto.png)
+
+![12-Otras-Actividades](img/12-Otras-Actividades.png)
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
