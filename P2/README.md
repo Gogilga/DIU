@@ -89,8 +89,3 @@ Nivel de uso: H (alto), M (medio), L (bajo)
 
 
 ![12-Otras-Actividades](img/12-Otras-Actividades.png)
-
-
-
-### Conclusiones  
-(incluye valoración de esta etapa)
