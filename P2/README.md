@@ -7,6 +7,9 @@
 
 
 ### PROPUESTA DE VALOR
+
+En nuestra propuesta de valor presentamos una mejora a la página principal del Hostel añadiendo un microsite en el que aparezcan actividades a realizar. Desde este microsite se puede filtrar por distintos tipos de actividades según su categoría y además se pueden reservar las que son organizadas por el Hostel. También se informa de las actividades ajenas al hostel con información de interés y con enlaces a las páginas oficiales para poder realizar sus reservas si los clientes lo estiman oportuno.
+
 * ScopeCanvas
 
 ![Propuesta de valor](img/PropuestaDeValor.png)
