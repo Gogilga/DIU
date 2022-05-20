@@ -8,7 +8,7 @@ Proyecto:  Experience4u
 Descripción: Se trata de un *minisite* orientado a poner de manifiesto las diferentes actividades que se presenta en el establecimiento de Hostel4u como en la ciudad de Granada en general. Las actividades pueden ser tanto culturales como gastronómicas o de ocio.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:  **Santiago Gil Legaza**    :octocat: https://github.com/Gogilga
