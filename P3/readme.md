@@ -13,7 +13,7 @@ En este apartado hemos creado un Lading Page desde promocionamos nuestro sitio w
 
 Mediante dicho documento podemos acceder a la página web y redes sociales pulsando los iconos que aparecen.
 
-[>> Puedes ver el Landing Page aquí](P3/Landing_page.pdf)
+[>> Puedes ver el Landing Page aquí](Landing_page.pdf)
 
 
 ## Mockup: LAYOUT HI-FI

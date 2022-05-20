@@ -168,8 +168,12 @@ En este apartado creamos un Moodboard, es decir, un tablón en el que se incluye
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+En este apartado hemos creado un Lading Page desde promocionamos nuestro sitio web como una solución real y factible al problema a la hora de realizar reservas.
 
->>> Plantear Landing Page 
+Mediante dicho documento podemos acceder a la página web y redes sociales pulsando los iconos que aparecen.
+
+[>> Puedes ver el Landing Page aquí](P3/Landing_page.pdf)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
