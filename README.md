@@ -162,7 +162,7 @@ Una vez hecho lo anterior, podríamos dar una idea visual de cómo se vería la 
 
 En este apartado creamos un Moodboard, es decir, un tablón en el que se incluyen muchos elementos que sirven para el dieseño de nuestro proyecto. En este se incluye el logotipo que hemos creado, una paleta de colores, unas imágenes inspiracionales, una tipografía a usar en nuestros prototipos y los iconos que se usarán en nuestra aplicación.
 
-![Moodboard](P3/img/Moodboard.png)
+![Moodboard](P3/img/Moodboard.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
