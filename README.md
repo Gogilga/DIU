@@ -181,6 +181,8 @@ Mediante dicho documento podemos acceder a la página web y redes sociales pulsa
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
+Para la tipografía hemos querido elegir unas que sea sencillas, pero a la vez tengan personalidad. Para ello hemos estado mirando en varias páginas, y fimalmente hemos optado por quedarnos con [Forum](https://fonts.google.com/specimen/Forum) para los títulos y con [Quicksand](https://fonts.google.com/specimen/Quicksand) para el texto en general.
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 

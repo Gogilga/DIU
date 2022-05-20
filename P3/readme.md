@@ -19,6 +19,8 @@ Mediante dicho documento podemos acceder a la página web y redes sociales pulsa
 ## Mockup: LAYOUT HI-FI
 
 
+
+
 ## Documentación: Publicación del Case Study
 
 
