@@ -160,10 +160,9 @@ Una vez hecho lo anterior, podríamos dar una idea visual de cómo se vería la 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+En este apartado creamos un Moodboard, es decir, un tablón en el que se incluyen muchos elementos que sirven para el dieseño de nuestro proyecto. En este se incluye el logotipo que hemos creado, una paleta de colores, unas imágenes inspiracionales, una tipografía a usar en nuestros prototipos y los iconos que se usarán en nuestra aplicación.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Moodboard](P3/img/Moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
