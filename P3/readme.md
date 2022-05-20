@@ -18,7 +18,13 @@ Mediante dicho documento podemos acceder a la página web y redes sociales pulsa
 
 ## Mockup: LAYOUT HI-FI
 
+Hemos creado un microservicio en forma de página web, mediante la cual manejamos la tarea de reservas de diversas actividades de ocio y turísticas en la ciudad de Granada, dando a conocer diversos factores como las actividades que se ofrecen, los guías disponibles ...etc.
 
+Para ello hemos hecho uso de la herramienta Wix, que es un sitio que que te ofrece un dominio y una edición muy sencilla de lo que sería una página web sin hacer uso de HTML. 
+
+Se puede acceder a dicha página web a través del Landing Page mostrado anteriormente o a través del siguiente enlace:
+
+[Experience4u](https://esantigilegaza.wixsite.com/experience4u)
 
 
 ## Documentación: Publicación del Case Study
