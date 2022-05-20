@@ -200,6 +200,10 @@ Se puede acceder a dicha página web a través del Landing Page mostrado anterio
 -----
 
 
+https://user-images.githubusercontent.com/32387083/169589889-ed266523-c9d9-45e0-8977-8e8b2de0b151.mp4
+
+
+
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 

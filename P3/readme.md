@@ -40,6 +40,12 @@ Se puede acceder a dicha página web a través del Landing Page mostrado anterio
 
 ## Documentación: Publicación del Case Study
 
+<<<<<<< HEAD
+=======
+https://user-images.githubusercontent.com/32387083/169589426-25d1e1ea-e657-4140-bc0c-7df54cf985f2.mp4
+
+
+>>>>>>> 1d805018ae835690731ac278a9f152965ba3e11f
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
