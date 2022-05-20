@@ -181,10 +181,12 @@ Mediante dicho documento podemos acceder a la página web y redes sociales pulsa
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-Para la tipografía hemos querido elegir unas que sea sencillas, pero a la vez tengan personalidad. Para ello hemos estado mirando en varias páginas, y fimalmente hemos optado por quedarnos con [Forum](https://fonts.google.com/specimen/Forum) para los títulos y con [Quicksand](https://fonts.google.com/specimen/Quicksand) para el texto en general.
+Para la tipografía hemos querido elegir unas que sea sencillas, pero a la vez tengan personalidad. Para ello hemos estado mirando en varias páginas, y fimalmente hemos optado por quedarnos con [Forum](https://fonts.google.com/specimen/Forum) para los títulos y con [Quicksand](https://fonts.google.com/specimen/Quicksand) para el texto en general. Ambas tipografías son fáciles de encontrar y de usar. 
+
+En la paleta de colores hemos escogido 4 tonalidades. Hemos querido continuar un poco con los colores presentes en la página del Hostel4u, pero alejarnos un poco de la temática tan oscura que presenta. Por ello hemos elegido el color amarillo que utilizan en su web, para usarlo como tonalidad que llame la atención, y el color blanco para darle ese toque de luminosidad y alegría que caracteriza a nuestra propuesta. Y por último hacemos uso de un color oscuro para botones y otros elementos de la interfaz para que resalte con el blanco. No es una tonalidad negra para no caer en la temática oscura que queremos evitar.
 
 ![Método UX](img/mockup.png)  3.d Mockup
-----
+---- 
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
