@@ -40,12 +40,8 @@ Se puede acceder a dicha página web a través del Landing Page mostrado anterio
 
 ## Documentación: Publicación del Case Study
 
-<<<<<<< HEAD
-=======
+Aquí tenemos un vídeo en el que se muestra como está realizado nuestro Layout. Se puede ver como se realiza la parte de reservar una actividad (acción que no deja realizar si se entra desde el enlace anterior por tenas de suscripción).
+
 https://user-images.githubusercontent.com/32387083/169589426-25d1e1ea-e657-4140-bc0c-7df54cf985f2.mp4
 
-
->>>>>>> 1d805018ae835690731ac278a9f152965ba3e11f
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+Esta práctica ha sido un poco más complicada que las anteriores, pues el proceso de llevar a cabo ya un prototipo mucho más avanzado con varias funcionalidades lleva más trabajo. Hemos tenido algunas complicaciones con Wix, ya que no hemos podido usar Adobe XD, hemos estado buscando alguna herramienta que nos diera la posibilidad de colocar un calendario, pues es el aspecto más importante de nuestra propuesta al ser el mejor medio para poder reservar actividades. Con Wix hemos tenido que usar una versión sin color de nuestro logo, porque solo aceptaba en ese momento imágenes vectoriales.
