@@ -9,6 +9,12 @@ En este apartado creamos un Moodboard, es decir, un tablón en el que se incluye
 
 ## Landing Page
 
+En este apartado hemos creado un Lading Page desde promocionamos nuestro sitio web como una solución real y factible al problema a la hora de realizar reservas.
+
+Mediante dicho documento podemos acceder a la página web y redes sociales pulsando los iconos que aparecen.
+
+[>> Puedes ver el Landing Page aquí](P3/Landing_page.pdf)
+
 
 ## Mockup: LAYOUT HI-FI
 
