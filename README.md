@@ -173,6 +173,8 @@ Nivel de uso: H (alto), M (medio), L (bajo)
 
 ![12-Otras-Actividades](P2/img/12-Otras-Actividades.png)
 
+[>> Los Wireframes puedes verlos al final de aquí](P2/README.md)
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
