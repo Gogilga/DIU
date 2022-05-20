@@ -182,6 +182,8 @@ Mediante dicho documento podemos acceder a la página web y redes sociales pulsa
 
 Para la tipografía hemos querido elegir unas que sea sencillas, pero a la vez tengan personalidad. Para ello hemos estado mirando en varias páginas, y fimalmente hemos optado por quedarnos con [Forum](https://fonts.google.com/specimen/Forum) para los títulos y con [Quicksand](https://fonts.google.com/specimen/Quicksand) para el texto en general. Ambas tipografías son fáciles de encontrar y de usar. 
 
+![Fuentes](P3/img/Fuentes.jpg)
+
 En la paleta de colores hemos escogido 4 tonalidades. Hemos querido continuar un poco con los colores presentes en la página del Hostel4u, pero alejarnos un poco de la temática tan oscura que presenta. Por ello hemos elegido el color amarillo que utilizan en su web, para usarlo como tonalidad que llame la atención, y el color blanco para darle ese toque de luminosidad y alegría que caracteriza a nuestra propuesta. Y por último hacemos uso de un color oscuro para botones y otros elementos de la interfaz para que resalte con el blanco. No es una tonalidad negra para no caer en la temática oscura que queremos evitar.
 
 ![Método UX](img/mockup.png)  3.d Mockup
@@ -199,7 +201,7 @@ Se puede acceder a dicha página web a través del Landing Page mostrado anterio
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Aquí tenemos un vídeo en el que se muestra como está realizado nuestro Layout. Se puede ver como se realiza la parte de reservar una actividad (acción que no deja realizar si se entra desde el enlace anterior por tenas de suscripción).
+Aquí tenemos un vídeo en el que se muestra como está realizado nuestro Layout. Se puede ver como se realiza la parte de reservar una actividad (acción que no deja realizar si se entra desde el enlace anterior por temas de suscripción).
 
 https://user-images.githubusercontent.com/32387083/169589889-ed266523-c9d9-45e0-8977-8e8b2de0b151.mp4
 
