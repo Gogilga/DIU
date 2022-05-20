@@ -40,7 +40,8 @@ Se puede acceder a dicha página web a través del Landing Page mostrado anterio
 
 ## Documentación: Publicación del Case Study
 
-![Video Demo](https://github.com/Gogilga/DIU/blob/master/P3/img/Demo.mp4)
+https://user-images.githubusercontent.com/32387083/169589426-25d1e1ea-e657-4140-bc0c-7df54cf985f2.mp4
+
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
