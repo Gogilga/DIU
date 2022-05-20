@@ -172,6 +172,8 @@ En este apartado hemos creado un Lading Page desde promocionamos nuestro sitio w
 
 Mediante dicho documento podemos acceder a la página web y redes sociales pulsando los iconos que aparecen.
 
+![Landing page](P3/img/LandingPage.jpg)
+
 [>> Puedes ver el Landing Page aquí](P3/Landing_page.pdf)
 
 
