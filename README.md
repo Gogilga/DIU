@@ -238,9 +238,9 @@ Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario c
 
 Según los resultados obtenidos en el cuestionario y al observar el microsite de nuestros compañeros, podemos concluir que sus puntos fuertes y débiles son:
 
-- Puntos fuertes: Los usuarios están de acuerdo que presenta una interfaz intuitiva en la que se puede manejar con facilidad y que podrían usar con frecuencia. Por lo que a ello respecta no es un sitio complejo con el que necesites ayuda externa para ser usado.
+- **Puntos fuertes**: Los usuarios están de acuerdo que presenta una interfaz intuitiva en la que se puede manejar con facilidad y que podrían usar con frecuencia. Por lo que a ello respecta no es un sitio complejo con el que necesites ayuda externa para ser usado.
 
-- Puntos débiles: Algunos usuarios consideran que es grande al recorrerlo, pues tiene muchos menús y puedes perderte en alguno de ellos. También se ve con dificultad el texto que se encuentra por encima de las imágenes.
+- **Puntos débiles**: Algunos usuarios consideran que es grande al recorrerlo, pues tiene muchos menús y puedes perderte en alguno de ellos. También se ve con dificultad el texto que se encuentra por encima de las imágenes.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
