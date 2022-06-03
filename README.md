@@ -212,32 +212,33 @@ https://user-images.githubusercontent.com/32387083/169589889-ed266523-c9d9-45e0-
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Se nos ha asignado el proyecto de nuestros compañeros del grupo [DIU3.3Mosqueteros](https://github.com/mario-gil/DIU) que nos presentan Concerts4UrDinner, que se trata de una app para el móvil, a través de la cual se pueden ver los eventos que están planificados y reservar mesa. Se puede ver información más específica de cada evento y también podremos ver el menú y ofertas.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Para el A/B testing hemos elegido a 4 personas ficticias obtenidas mediante el uso de los dados del role-play. Esos usuarios son:
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| #USER1  | M / 50   | Ama de casa  | Media       | Timida | Web.       | A 
+| #USER2  | H / 35   | Dependiente  | Avanzada       | Racional       | Web        | A 
+| #USER3  | M / 54   | Empresario     | Avanzada        | Introvertido    | móvil      | B 
+| #USER4  | H / 27   | Opositora  | Media       | Racional     |Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](Cuestionario_SUS_DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+![Foto cuestionario](P4/img/Cuestionario_SUS_DIU.jpg)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
