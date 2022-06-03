@@ -1,10 +1,10 @@
 # DIU - Practica 4, entregables
 
-* Caso asignado
+## Caso asignado
 
 Se nos ha asignado el proyecto de nuestros compañeros del grupo [DIU3.3Mosqueteros](https://github.com/mario-gil/DIU) que nos presentan Concerts4UrDinner, que se trata de una app para el móvil, a través de la cual se pueden ver los eventos que están planificados y reservar mesa. Se puede ver información más específica de cada evento y también podremos ver el menú y ofertas.
 
-* Users 
+## Users 
 
 Para el A/B testing hemos elegido a 4 personas ficticias obtenidas mediante el uso de los dados del role-play. Esos usuarios son:
  
@@ -17,7 +17,7 @@ Para el A/B testing hemos elegido a 4 personas ficticias obtenidas mediante el u
 | #USER4  | Silvia | H / 27   | Opositora  | Media       | Racional     |Móvil        | B 
 
 
-* A/B Testing. 
+## A/B Testing. 
 
 Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](Cuestionario_SUS_DIU.xlsx) para calcular resultados siguiendo las pautas para usar la escala SUS e interpretar los resultados
 
@@ -29,11 +29,11 @@ Según los resultados obtenidos en el cuestionario y al observar el microsite de
 
 - Puntos débiles: Algunos usuarios consideran que es grande al recorrerlo, pues tiene muchos menús y puedes perderte en alguno de ellos. También se ve con dificultad el texto que se encuentra por encima de las imágenes.
 
-* Usability Report de Caso B
+## Usability Report de Caso B
 
 Para finalizar, aquí se puede ver el [Usability Report](DIU_report-template-usability-testOK.pdf) realizado sobre el proyecto de nuestros compañeros.
 
-* Conclusiones
+## Conclusiones
 
 Después de todo lo observado y basándonos en las opiniones y valoraciones de los usuarios creados, obteniendo en estos una valoración final de 80,  podemos llegar a la conclusión de que la app de nuestros compañeros es sencilla de manejar desde la primera toma de contacto, pues consta de una interfaz bastante intuitiva y cumpliendo sobradamente la finalidad del micro-site, la cual se basaba en el manejo y reservas de actividades a través del hostel.
 
