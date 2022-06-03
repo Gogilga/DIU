@@ -255,10 +255,11 @@ Así mismo, la app, aunque consta de un bonito diseño y logo, no encaja bien la
 
 ## Conclusión final / Valoración de las prácticas
 
+Durante el desarrollo de las prácticas, hemos ido dilucidando  a la vez que aprendiendo como realizar unas buenas pautas de diseño muy útiles a la hora de poder prever las necesidades de los clientes, ponernos en su lugar, y de ésta forma crear un diseño y componentes que puedan suplir esas necesidades de la forma más completa y elegante posible, y todo esto, sin desviar la mirada de cuestiones tan importantes como crear un producto simple, intuitivo y sencillo de usar para el público. Todo esto gracias a la aplicación de los test A/B, así como de la utilización de los UX Case Study.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Finalmente damos gracias al profesorado por ser nuestro guía durante todo este desarrollo y aprendizaje, dicho todo esto, nos despedimos de esta asignatura.
 
-
+[¡¡Hasta luego!!](img/the-simpsons-homer-simpson.gif)
 
 
 
