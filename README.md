@@ -221,12 +221,12 @@ Se nos ha asignado el proyecto de nuestros compañeros del grupo [DIU3.3Mosquete
 Para el A/B testing hemos elegido a 4 personas ficticias obtenidas mediante el uso de los dados del role-play. Esos usuarios son:
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| #USER1  | M / 50   | Ama de casa  | Media       | Timida | Web.       | A 
-| #USER2  | H / 35   | Dependiente  | Avanzada       | Racional       | Web        | A 
-| #USER3  | M / 54   | Empresario     | Avanzada        | Introvertido    | móvil      | B 
-| #USER4  | H / 27   | Opositora  | Media       | Racional     |Móvil        | B 
+| Usuarios | Nombre | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| #USER1  | María | M / 50   | Ama de casa  | Media       | Timida | Web.       | A 
+| #USER2  | Lucas | H / 35   | Dependiente  | Avanzada       | Racional       | Web        | A 
+| #USER3  | Juan | M / 54   | Empresario     | Avanzada        | Introvertido    | móvil      | B 
+| #USER4  | Silvia | H / 27   | Opositora  | Media       | Racional     |Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -237,6 +237,8 @@ Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario c
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 ![Foto cuestionario](P4/img/Cuestionario_SUS_DIU.jpg)
+
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
