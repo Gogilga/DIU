@@ -232,9 +232,7 @@ Para el A/B testing hemos elegido a 4 personas ficticias obtenidas mediante el u
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](P4/Cuestionario_SUS_DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](P4/Cuestionario_SUS_DIU.xlsx) para calcular resultados siguiendo las pautas para usar la escala SUS e interpretar los resultados
 
 ![Foto cuestionario](P4/img/Cuestionario_SUS_DIU.jpg)
 
@@ -242,7 +240,7 @@ Según los resultados obtenidos en el cuestionario y al observar el microsite de
 
 - Puntos fuertes: Los usuarios están de acuerdo que presenta una interfaz intuitiva en la que se puede manejar con facilidad y que podrían usar con frecuencia. Por lo que a ello respecta no es un sitio complejo con el que necesites ayuda externa para ser usado.
 
-- Puntos débiles: Algunos usuarios consideran que es grande al recorrerlo, pues tuene muchos menús y puedes perderte en alguno de ellos. También se ve con dificultad el texto que se encuentra por encima de las imágenes.
+- Puntos débiles: Algunos usuarios consideran que es grande al recorrerlo, pues tiene muchos menús y puedes perderte en alguno de ellos. También se ve con dificultad el texto que se encuentra por encima de las imágenes.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
