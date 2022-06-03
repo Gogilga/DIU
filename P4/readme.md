@@ -31,7 +31,7 @@ Según los resultados obtenidos en el cuestionario y al observar el microsite de
 
 ## Usability Report de Caso B
 
-Para finalizar, aquí se puede ver el [Usability Report](DIU_report-template-usability-testOK.pdf) realizado sobre el proyecto de nuestros compañeros.
+Para finalizar, aquí se puede ver el [Usability Report](P4_UsabReport_Concerts4UrDinner_doneby_DIU3_SS_Team.pdf) realizado sobre el proyecto de nuestros compañeros.
 
 ## Conclusiones
 

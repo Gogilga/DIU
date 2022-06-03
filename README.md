@@ -246,7 +246,7 @@ Según los resultados obtenidos en el cuestionario y al observar el microsite de
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Para finalizar, aquí se puede ver el [Usability Report](P4/DIU_report-template-usability-testOK.pdf) realizado sobre el proyecto de nuestros compañeros.
+Para finalizar, aquí se puede ver el [Usability Report](P4/P4_UsabReport_Concerts4UrDinner_doneby_DIU3_SS_Team.pdf) realizado sobre el proyecto de nuestros compañeros.
 
 
 Después de todo lo observado y basándonos en las opiniones y valoraciones de los usuarios creados, obteniendo en estos una valoración final de 80,  podemos llegar a la conclusión de que la app de nuestros compañeros es sencilla de manejar desde la primera toma de contacto, pues consta de una interfaz bastante intuitiva y cumpliendo sobradamente la finalidad del micro-site, la cual se basaba en el manejo y reservas de actividades a través del hostel.
