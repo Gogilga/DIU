@@ -259,7 +259,9 @@ Durante el desarrollo de las prácticas, hemos ido dilucidando  a la vez que apr
 
 Finalmente damos gracias al profesorado por ser nuestro guía durante todo este desarrollo y aprendizaje, dicho todo esto, nos despedimos de esta asignatura.
 
-[¡¡Hasta luego!!](img/the-simpsons-homer-simpson.gif)
+¡¡Hasta luego!!
+
+![¡¡Hasta luego!!](img/the-simpsons-homer-simpson.gif)
 
 
 
