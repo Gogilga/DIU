@@ -232,9 +232,7 @@ Para el A/B testing hemos elegido a 4 personas ficticias obtenidas mediante el u
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](Cuestionario_SUS_DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](P4/Cuestionario_SUS_DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
