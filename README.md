@@ -246,11 +246,12 @@ Según los resultados obtenidos en el cuestionario y al observar el microsite de
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Para finalizar, aquí se puede ver el [Usability Report](P4/DIU_report-template-usability-testOK.pdf) realizado sobre el proyecto de nuestros compañeros.
 
 
+Después de todo lo observado y basándonos en las opiniones y valoraciones de los usuarios creados, obteniendo en estos una valoración final de 80,  podemos llegar a la conclusión de que la app de nuestros compañeros es sencilla de manejar desde la primera toma de contacto, pues consta de una interfaz bastante intuitiva y cumpliendo sobradamente la finalidad del micro-site, la cual se basaba en el manejo y reservas de actividades a través del hostel.
 
->>> Valoración personal 
+Así mismo, la app, aunque consta de un bonito diseño y logo, no encaja bien la estética con la página de 4UHostel. Sin embargo esta valoración estética, la podemos dar únicamente para teléfonos móviles, pues no hay disponible una versión de la app para PC en el trabajo de nuestros compañeros. Finalmente, a pesar de estos repuntes que podrían subsanarse, hemos de decir que la app de nuestros compañeros cumple sobradamente con su finalidad y las necesidades de posibles clientes, siendo la experiencia de estos muy satisfactoria.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
